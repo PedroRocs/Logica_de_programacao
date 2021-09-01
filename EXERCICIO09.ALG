@@ -1,21 +1,20 @@
-Algoritmo "Exercicio09"
-// Disciplina   : [Java Script e Lógica de Programação]
-// Professor   : Jailson
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 24/08/2021
+// Data atual  : 25/08/2021
 Var
- idade,mes,dias,resultado:inteiro
+sal,porc,total:real
 
 
 Inicio
-escreva("Quantos anos você tem ? ")
-leia(idade)
-escreva("Quantos meses você tem ? ")
-leia(mes)
-escreva("quantos dias você tem? ")
-leia(dias)
-resultado<-(idade*12)*30+dias
-escreva("sua idade equivale a ",resultado," dias")
+escreval("Qual o seu salario? ")
+leia(sal)
+escreval("Qual o Seu porcentual de reajuste? ")
+leia(porc)
+total<-(porc/100)*sal+sal
+escreva("Seu salario vai ser: ",total)
+
 
 Fimalgoritmo

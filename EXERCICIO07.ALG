@@ -1,20 +1,20 @@
 Algoritmo "Exercicio07"
-// Disciplina : [Lógica de Programação e JavaScript]
-// Professor : Jailson Costa dos Santos
-// Descrição : Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
-// Autor(a) : Pedro
-// Data atual : 24/08/2021
-Var
-bas,alt,a:real
+// Disciplina   :[Lógica de Programação e Javascript]
+// Professor   : Jailson Costa dos Santos
+// Descrição   : Soma de dois valores e apresentação do resultado
+// Autor(a)    : Pedro Rocha
+// Data atual  : 24/08/2021
+ ano,mes,dias,total:inteiro
 
 
 Inicio
-escreva("Informe a base : ")
-leia(alt)
-escreval("informe a altura: ")
-leia(bas)
-a<- alt * bas
-escreval("A area do retangulo é: ",a)
-
+Escreval ("Quantos anos você tem?:")
+Leia(ano)
+Escreval ("Há quantos meses foi seu aniversário?:")
+Leia(mes)
+Escreval ("Quantos dias faltam do seu aniversário até o fim do mês?: ")
+Leia(dias)
+total<-ano*365+meses*30+dias
+Escreval ("Você viveu por", total, " dias, parabéns!")
 
 Fimalgoritmo
