@@ -1,13 +1,12 @@
 Algoritmo "Exercicio 48"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Professor   : Jailson
+// Descrição   :  Escreva um algoritmo para ler as notas da 1a. e 2a. avaliações de um aluno, calcule e imprima a média (simples) desse aluno. Só devem ser aceitos valores válidos durante a leitura (0 a 10) para cada nota.
+// Autor(a)    : Pedro Rocha
 // Data atual  : 31/08/2021
 Var
    // Seção de Declarações das variáveis
    nota1,nota2,media:real
-   resp:caractere
 
 Inicio
       Escreva("Informe a primeira nota: ")

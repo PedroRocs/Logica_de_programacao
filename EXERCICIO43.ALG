@@ -1,15 +1,15 @@
 Algoritmo "EXERCICIO43"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Disciplina   : [Java Script e Lógica de Programação]
+// Professor   : Jailson
 // Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Pedro Rocha
 // Data atual  : 30/08/2021
 Var
    a, b, c:real
 
 
 Inicio
-   ESCREVA("INFORME O 1° LADO DO TRIAGULO")
+   ESCREVA("INFORME O 1° LADO DO TRIANGULO")
    LEIA(a)
    escreva("INFORME O 2°LADO DO TRINGULO")
    LEIA(b)

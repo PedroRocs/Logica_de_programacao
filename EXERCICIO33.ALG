@@ -1,10 +1,7 @@
-Algoritmo "semnomena   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Ler dois valores e imprimir uma das três mensagens a seguir:
-//‘Números iguais’, caso os números sejam iguais
-//‘Primeiro é maior’, caso o primeiro seja maior que o segundo;
-//‘Segundo maior’, caso o segundo seja maior que o primeiro.
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "Exercicio33"
+// Professor   : Jailson
+// Descrição   : Ler dois valores e imprimir uma das três mensagens a seguir: Números iguais’, caso os números sejam iguais‘Primeiro é maior’, caso o primeiro seja maior que o segundo;Segundo maior’, caso o segundo seja maior que o primeiro.
+// Autor(a)    : Pedro Rocha
 // Data atual  : 29/08/2021
 Var
 N1,N2:inteiro

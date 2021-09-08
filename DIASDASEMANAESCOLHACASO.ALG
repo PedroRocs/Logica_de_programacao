@@ -1,8 +1,8 @@
 Algoritmo "DiasdaSemanaEscolhaCaso"
 // Disciplina : [Lógica de Programação e JavaScript]
 // Professor : Jailson Costa dos Santos
-// Descrição : Aqui você descreve o que o programa faz! (função)
-// Autor(a) : Nome do(a) aluno(a)
+// Descrição : Conntar dias da semana
+// Autor(a) : Pedro rocha
 // Data atual : 27/08/2021
 Var
 // Seção de Declarações das variáveis

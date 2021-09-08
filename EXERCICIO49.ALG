@@ -1,8 +1,8 @@
 Algoritmo "Exercicio 49"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Java Script e Lógica de Programação]
+// Professor   : Jailson
+// Descrição   : Acrescente uma mensagem 'NOVO CÁLCULO (S/N)?' ao final do exercício [48]. Se for respondido 'S' deve retornar e executar um novo cálculo, caso contrário deverá encerrar o algoritmo.
+// Autor(a)    : Pedro Rocha
 // Data atual  : 31/08/2021
 Var
    // Seção de Declarações das variáveis

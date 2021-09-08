@@ -1,8 +1,8 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "EXERCICIO37"
+// Disciplina   : [Java Script e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.
+// Autor(a)    : Pedro rocha
 // Data atual  : 29/08/2021
 Var
    KG_MORANGO,KG_MACA,TOTAL,TOTAL_MACA,TOTAL_MORANGO,VALOR,DESC:REAL

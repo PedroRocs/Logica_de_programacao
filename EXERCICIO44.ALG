@@ -15,8 +15,11 @@ Inicio
    Escreva("Informe um outro valor: ")
    leia(V2)
    repita
+   se(v2<>0) entao
+      senao
       Escreva("Escreva um valor valido: ")
       leia(V2)
+      fimse
    ate v2<>0
 
    divi<-v1/v2

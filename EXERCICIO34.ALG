@@ -1,7 +1,7 @@
 Algoritmo "Exercicio34"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Professor   : Jailson
+// Descrição   : Faça um teste de mesa e complete o quadro
 // Autor(a)    : Pedro Rocha
 // Data atual  : 29/08/2021
 Var

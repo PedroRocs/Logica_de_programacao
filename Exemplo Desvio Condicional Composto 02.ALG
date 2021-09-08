@@ -2,7 +2,7 @@ Algoritmo "ExemploDesvioCondicionalComposto02"
 // Disciplina : [Lógica de Programação e JavaScript]
 // Professor : Jailson Costa dos Santos
 // Descrição : Exemplo Desvio Condicional Composto 02
-// Autor(a) : Nome do(a) aluno(a)
+// Autor(a) : Pedro Rocha
 // Data atual : 25/08/2021
 Var
 // Seção de Declarações das variáveis
