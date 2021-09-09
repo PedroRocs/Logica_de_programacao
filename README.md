@@ -1,9 +1,7 @@
-# PROJETO LOJA DO OBAMA
+# LOGICA DE PROGRAMAÇÃO
 
-## Projeto desenvolvido sobre a orientação do Professor Jailson nas aulas de HTML5 e CSS3 na Instituição PROA.
-<img src="Imagem/macabro.jpg" align =right>
-
-### O site Loja do Obama foi um projeto desenvolvido juntamente com o Professor Jailson para fins didáticos nas aulas de HTML5 E CSS3 
+## Algoritmos desenvolvidos no Software Visualg nas aulas do Professor Jailson na disciplina de Logica de Programação na Instituição PROA.
+<img src= align =right>
 
 > Autor GitHub: https://github.com/PedroRocs
  
